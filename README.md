@@ -12,7 +12,7 @@ To Construct a Python Code to implement the Kalman filter to predict the positio
 * Step 6: Store the estimated state in a list.
 * Step 7: Plot the true and estimated positions.
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python3
