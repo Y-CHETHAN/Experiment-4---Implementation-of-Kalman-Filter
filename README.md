@@ -12,8 +12,6 @@ To Construct a Python Code to implement the Kalman filter to predict the positio
 * Step 6: Store the estimated state in a list.
 * Step 7: Plot the true and estimated positions.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM
 ```python3
 import numpy as np
@@ -69,8 +67,6 @@ plt.show()
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/75234991/231519509-c9ae5dad-8a68-4e0d-b5ea-6aaf9e1b2293.png)
-
-<br><br><br><br><br><br><br><br><br><br>
 
 ## RESULT
 Thus, Kalman filter to predict the position and velocity of an object is implemented successfully.
